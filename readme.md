@@ -14,7 +14,7 @@ As a busy traveller, a budget can be maintained by recording and tracking transa
 4. A screenshot and link are provided to preview the application
 
 ![Preview](assets/preview.jpg)<br>
-[Budget Tracker]()
+[Budget Tracker](https://lit-shelf-51910.herokuapp.com/)
 
 ## Technology Used
 
